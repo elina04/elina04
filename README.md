@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 
 
+This is a memory for my precious friends.
 <!--
 **elina04/elina04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
